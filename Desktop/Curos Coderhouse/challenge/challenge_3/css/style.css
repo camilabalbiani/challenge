@@ -1,0 +1,74 @@
+li{
+	color: white;
+	font-family: "signika";
+	font-size: 16px;
+	font-weight: 400;
+}
+
+h1{
+	color: #F45B69;
+	font-family: "signika";
+	font-size: 30px;
+	font-weight: 700;
+}
+
+.seccion{
+	background-color:#FAFCF4;
+}
+
+.titulo{
+	background: #FAFCF4;
+	font-family: "signika";
+	font-weight:400;
+	font-size: 20px; 
+	color: rgb(128,128,128);
+}
+
+.parrafo{
+	font-family: "signika";
+	font-weight: 300;
+	font-size: 16px;
+	color: rgb(128,128,128);
+}
+
+.ion-ios-lightbulb{
+	color: #F45B69;
+	font-size: 30px;
+}
+
+h2{
+	font-family: "signika";
+	font-size: 25px;
+	color: white;
+	font-weight: 700;	
+}
+
+.seccion2{
+	background-color: #114B5F;
+}
+
+.subtitulo{
+	font-family: "signika";
+	font-weight: 400;
+	color: #028090;
+	font-size: 20px;
+}
+
+.parrafo2{
+	font-family: "signika";
+	font-weight: 300;
+	color: white;
+	font-size: 15px;
+}
+
+.ion-star{
+	font-size: 30px;
+	color:rgb(0,135,182);
+}
+
+h3{
+	font-family: "signika";
+	color: rgb(128,128,128);
+	font-weight: 700;
+	font-size: 20px;
+}
